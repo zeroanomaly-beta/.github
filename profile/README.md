@@ -7,13 +7,13 @@
 ## 🚀 Features
 
 - **Real-Time Detection**  
-  Instantly analyzes system behavior and network traffic to identify potential threats before they cause damage :contentReference[oaicite:2]{index=2}.
-
+  Instantly analyzes system behavior and network traffic to identify potential threats before they cause damage
+  
 - **Behavioral Analysis**  
-  Employs deep learning models to understand normal system activity and flag anomalous behaviors with high precision :contentReference[oaicite:3]{index=3}.
+  Employs deep learning models to understand normal system activity and flag anomalous behaviors with high precision
 
 - **Threat Intelligence**  
-  Continuously learns from global threat data to stay ahead of emerging malware variants, including zero-day exploits :contentReference[oaicite:4]{index=4}.
+  Continuously learns from global threat data to stay ahead of emerging malware variants, including zero-day exploits
 
 ---
 
